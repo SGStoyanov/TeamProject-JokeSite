@@ -2,69 +2,115 @@
 <html>
 	<head>
 		<title>JokeUni</title>
+		<meta charset="utf8"/>
 		<style type="text/css">
-		nav{
-			background-color:#234465;
-			width:1230px;
-			height:35px;
-			margin-left:50px;
-		}
-		ul{
-			color:white;
-			font-family:tahoma;
-			font-size:18pt;
-			margin-top:0px;
-			margin-bottom:0px;
-		}
-		ul li{
-			display:inline;
-			padding-left:20px;
-		}
-		section{
-			width:1000px;
-			background-color:#E6E6E6;
-			margin-left:50px;
-			margin-top:5px;
-		}
-		aside{
-			width:226px;
-			background-color:#E6E6E6;
-			margin-left:5px;
-			margin-top:5px;
-			margin-right:68px;
-			float:right;
-		}
-		footer{
-			width:1230px;
-			background-color:#E6E6E6;
-			margin-left:50px;
-			margin-top:5px;
-		}
+			body{
+				width:100%;
+				font-family:comic sans ms;
+			}
+			.jokeUni{
+				width:22.22%;
+				margin-left:3.7%;
+			}
+			.learnJoke{
+				width:68.7%;
+			}
+			nav{
+				background-color:#234465;
+				width:91.2%;
+				margin-left:3.7%;
+			}
+			ul{
+				color:white;
+				font-size:16pt;
+				margin-top:0px;
+				margin-bottom:0px;
+				padding-top:2px;
+				padding-bottom:4px;
+			}
+			ul li{
+				display:inline;
+				padding-right:1.63%;
+				text-align:center;
+			}
+			section{
+				width:73%;
+				background-color:#E6E6E6;
+				margin-left:3.7%;
+				margin-top:5px;
+				margin-bottom:5px;
+				padding:5px;
+			}
+			aside{
+				width:16%;
+				background-color:#E6E6E6;
+				margin-left:5px;
+				margin-top:5px;
+				margin-bottom:5px;
+				margin-right:5.1%;
+				float:right;
+				padding-left:15px;
+			}
+			footer{
+				width:89.7%;
+				background-color:#E6E6E6;
+				margin-left:3.7%;
+				padding:10px;
+			}
+			table{
+				width:50%;
+				font-size:11pt;
+				margin-left:3%;
+			}
+			h2{
+				font-size:12pt;
+				color:#234465;
+				font-weight:bold;
+			}
+			ul.block{
+				color:black;
+				padding-left:10px;
+				list-style-type: circle;
+			}
+			.block li{
+				display:block;
+				text-align:left;
+			}
+			a{
+				font-family:arial;
+				font-size:10pt;
+				height:14px;
+				padding-top:2px;
+				padding-bottom:3px;
+			}
+			.laphingFace{
+				width:49%;
+				padding-left:40%;
+			}
 		</style>
 	</head>
 	
-	<body background="Background.jpg" style="width:100%">
+	<body background="Background.jpg">
 		<head>
-			<img src="JokeUni.jpg" style="padding-left:50px; padding-top:50px; padding-right:0px; margin-right:0px">
-			<img src="LearnToJoke.jpg" style="padding-top:50px; padding-left:0px; margin-left:0px">
+			<img src="JokeUni.jpg" class="jokeUni">
+			<img src="LearnToJoke.jpg" class="learnJoke">
 		</head>
 		<nav>
 			<ul>
-				<li>Home</li>
-				<li>Anecdots</li>
+				<li>JokeUni</li>
+				<li>Бисери</li>
+				<li>Quotes</li>
 			</ul>
 		</nav>
 		<aside>
-			Sidebar
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
+			<h2>Вицове за програмисти:</h2>
+			<ul class="block">
+				<li><a href="http://softuni.bg/forum/questions/details/38" target="_blank">SoftUniForum</a></li>
+				<li><a href="http://animacii.net/humor/1624-zabavni-programisti-programirane-smeshni-smqh-humor.html" target="_blank">101 начина да вбесите програмиста!</a></li>
+				<li><a href="http://www.vicmania.com/?cat=1059&paged=4" target="_blank">Виц Мания</a></li>
+				<li><a href="http://www.yes.bg/fun/?cat=24" target="_blank"> Още вицове</a></li>
+			</ul>
+			<img src="Laphing Face.jpg" alt="Laphing face" class="laphingFace">
 			<br/>
 			<br/>
 			<br/>
@@ -72,7 +118,8 @@
 			<br/>
 		</aside>
 		<section>
-			Here is will be our main section
+			<br/>
+			<br/>
 			<br/>
 			<br/>
 			<br/>
@@ -92,14 +139,18 @@
 		
 		<footer>
 			<strong>TEAM "ENIVAS":</strong>
-			<ol type="none">
-				<li>Stoyan Stoyanov</li>
-				<li>Mihaela Mladenova</li>
-				<li>Teodor Dobrev</li>
-				<li>Svetoslav Toshkov</li>
-				<li>Nikolay Rangelov</li>
-				<li>Yulia Dimitrova-Jamieson</li>
-			</ul>
+			<table>
+				<tr>
+					<td>Stoyan Stoyanov</td>
+					<td>Mihaela Mladenova</td>
+					<td>Teodor Dobrev</td>
+				<tr/>
+				<tr>
+					<td>Svetoslav Toshkov</td>
+					<td>Nikolay Rangelov</td>
+					<td>Yulia Dimitrova-Jamieson</td>
+				<tr/>
+			</table>
 		</footer>
 			
 	</body>
