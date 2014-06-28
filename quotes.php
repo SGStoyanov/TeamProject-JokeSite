@@ -60,7 +60,6 @@
 				<dt>"The greatest inspiration is the deadline!!"</dt>
 					<dd>Стамо Гочев (Софтуерна Академия Телерик)</dd>
 			</dl>
-			
 		</section>
 		
 		<aside>

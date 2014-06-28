@@ -19,7 +19,7 @@
 		</nav>
 		
 		<section>
-			Some Text
+			Welcome...
 			<br/>
 			<br/>
 			<br/>

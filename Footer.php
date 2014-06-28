@@ -1,4 +1,5 @@
 <strong>&copy; June, 2014 - TEAM "ENYWAS":</strong>
+//should be redesigned as divs
 <table>
     <tr>
         <td>Stoyan Stoyanov</td>
