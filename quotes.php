@@ -14,9 +14,8 @@
 		<nav>
 			<ul>
 				<li><a href="Index.php" class="navigation">Начало</a></li>
-				<li><a href="quotes.html" class="navigation">Цитати</a></li>
-				<li><a href="Jokes.php" class="navigation">Бисери</a></li>
-				
+                <li><a href="Quotes.php" class="navigation">Цитати</a></li>
+                <li><a href="Jokes.php" class="navigation">Бисери</a></li>
 			</ul>
 		</nav>
 		
