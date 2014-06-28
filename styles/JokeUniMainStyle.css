@@ -1,13 +1,33 @@
 body {
     width:100%;
-    font-family:comic sans ms;
+    height: 100%;
+    font-family:comic sans ms, Arial, Helvetica;
+    /*background: url("../Images/Abstract_dream.jpg");*/
+    background: rgba(179,220,237,1);
+    /* Old Browsers */background: -moz-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* FF3.6+ */background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(179,220,237,1)), color-stop(19%, rgba(139,173,240,1)), color-stop(50%, rgba(41,184,229,1)), color-stop(72%, rgba(154,179,230,1)), color-stop(79%, rgba(139,173,240,1)), color-stop(100%, rgba(188,224,238,1)));
+    /* Chrome,Safari4+  */background: -webkit-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* Opera 11.10+ */background: -ms-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* IE 10+ */background: linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */
+    }
+    header, aside, nav, section, footer {
+        opacity: 0.9;
+    }
+    header {
+        height: 15%;
     }
     .jokeUni {
         width:22.22%;
+        display: inline-block;
+        height: 20%;
         margin-left:3.7%;
     }
     .learnJoke {
         width:68.7%;
+        height: 20%;
     }
     nav {
         background-color:#234465;
@@ -85,7 +105,7 @@ body {
         padding-top:2px;
         padding-bottom:3px;
     }
-    .laphingFace {
+    .laughingFace {
         width:49%;
         padding-left:40%;
     }
