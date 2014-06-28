@@ -12,9 +12,9 @@
 
 		<nav>
 			<ul>
-				<li><a href="Index.php" class="navigation">Начало</a></li>
-				<li><a href="Quotes.php" class="navigation">Цитати</a></li>
-				<li><a href="Jokes.php" class="navigation">Бисери</a></li>
+				<li><a href="index.php" class="navigation">Начало</a></li>
+				<li><a href="quotes.php" class="navigation">Цитати</a></li>
+				<li><a href="jokes.php" class="navigation">Бисери</a></li>
 			</ul>
 		</nav>
 		
@@ -53,7 +53,7 @@
 			<br/>
 		</aside>
 		<footer>
-            <?php include ('Footer.php'); ?>
+            <?php include ('footer.php'); ?>
 		</footer>
 	</body>
 </html>
