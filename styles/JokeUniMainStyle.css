@@ -15,8 +15,6 @@ body {
         margin-left:3.7%;
     }
     ul {
-        color:white;
-        font-size:16pt;
         margin-top:0px;
         margin-bottom:0px;
         padding-top:2px;
@@ -27,10 +25,16 @@ body {
         padding-right:1.63%;
         text-align:center;
     }
+	.navigation{
+		color:white;
+        font-size:16pt;
+		text-decoration:none;
+		font-family:comic sans ms;
+	}
     section {
 		float:left;
 		width:71%;
-		height:570px;
+		height:1400px;
         background-color:#E6E6E6;
         margin-left:3.7%;
         margin-top:5px;
@@ -41,7 +45,7 @@ body {
     aside {
 		float:left;
         width:15.7%;
-        height: 600px;
+        height: 1430px;
         background-color:#E6E6E6;
         margin-left:5px;
         margin-top:5px;
@@ -85,3 +89,8 @@ body {
         width:49%;
         padding-left:40%;
     }
+	dd{
+		margin-bottom:15px;
+		text-align:right;
+		margin-right:40px;
+	}
