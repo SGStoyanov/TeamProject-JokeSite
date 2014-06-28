@@ -2,9 +2,6 @@ body {
     width:100%;
     font-family:comic sans ms;
     }
-nav, section, aside {
-    display: inline-block;
-}
     .jokeUni {
         width:22.22%;
         margin-left:3.7%;
@@ -31,26 +28,28 @@ nav, section, aside {
         text-align:center;
     }
     section {
-        width:73.1%;
+		float:left;
+		width:71%;
+		height:570px;
         background-color:#E6E6E6;
         margin-left:3.7%;
         margin-top:5px;
         margin-bottom:5px;
-        padding:5px;
+        padding:15px;
+		
     }
-    aside#rightPanel {
-        display: inline-block;
-        width:15%;
-        height: 25%;
+    aside {
+		float:left;
+        width:15.7%;
+        height: 600px;
         background-color:#E6E6E6;
-        margin-left:1px;
+        margin-left:5px;
         margin-top:5px;
-        margin-bottom:10px;
-        margin-right:5.2%;
-        float:right;
+        margin-bottom:5px;
         padding-left:25px;
     }
     footer {
+		float:left;
         width:89.7%;
         background-color:#E6E6E6;
         margin-left:3.7%;
