@@ -7,11 +7,9 @@
 	</head>
 	<body>
 		<header>
-			<a href="Index.html" class="navigation">
-				<img src="Images/JokeUni.jpg" class="jokeUni" alt="JokeUni logo">
-			</a>
-			<img src="Images/LearnToJoke.jpg" class="learnJoke" alt="JokeUni main picture">
+			<?php include ('Header.php'); ?>
 		</header>
+
 		<nav>
 			<ul>
 				<li><a href="Index.html" class="navigation">Начало</a></li>
@@ -37,7 +35,6 @@
 			<br/>
 			<br/>
 			<br/>
-			
 		</section>
 		
 		<aside>
@@ -55,21 +52,8 @@
 			<br/>
 			<br/>
 		</aside>
-		
 		<footer>
-			<strong>&copy; June, 2014 - TEAM "ENYWAS":</strong>
-			<table>
-				<tr>
-					<td>Stoyan Stoyanov</td>
-					<td>Mihaela Mladenova</td>
-					<td>Teodor Dobrev</td>
-				</tr>
-				<tr>
-					<td>Svetoslav Toshkov</td>
-					<td>Nikolay Rangelov</td>
-					<td>Yulia Dimitrova-Jamieson</td>
-				</tr>
-			</table>
+            <?php include ('Footer.php'); ?>
 		</footer>
 	</body>
 </html>
