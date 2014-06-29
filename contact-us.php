@@ -64,9 +64,8 @@
                 <a id="usr3" href="https://softuni.bg/users/profile/show" target="_blank">Yulia Dimitrova-Jamieson</a>
             </div>
             <div class="secondRow">(yuletodim)</div>
-            <p></p>
-            <p>
-            </p>
+                <p></p>
+                <p></p>
             <div class="contact-links">
                 <a class="avaliable-link" href="mailto: yuletodim@yahoo.es" target="_blank">
                     <img class="resize1" src="Images/email-icon.PNG" alt="Email Link">
@@ -84,11 +83,10 @@
                 <a id="usr4" href="https://softuni.bg/users/profile/show" target="_blank">Mihaela Mladenova</a>
             </div>
             <div class="secondRow">(alea_him)</div>
-            <p></p>
-            <p>
-            </p>
+                <p></p>
+                <p></p>
             <div class="contact-links">
-                <a class="avaliable-link" href="mailto: alea_him@abv.bg target="_blank">
+                <a class="avaliable-link" href="mailto: alea_him@abv.bg" target="_blank">
                     <img class="resize1" src="Images/email-icon.PNG" alt="Email Link">
                 </a>
                 <a class="avaliable-link" href="https://none" target="_blank">
