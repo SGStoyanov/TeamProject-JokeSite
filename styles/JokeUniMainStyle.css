@@ -1,7 +1,7 @@
 body {
     width:100%;
     height: 100%;
-    font-family:comic sans ms, Arial, Helvetica;
+    font-family: Pacifico, comic sans ms, Arial, Helvetica;
     /*background: url("../Images/Abstract_dream.jpg");*/
     background: rgba(179,220,237,1);
     /* Old Browsers */background: -moz-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
@@ -13,7 +13,7 @@ body {
     /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );
     }
     header, aside, nav, section, footer {
-        opacity: 0.9;
+        opacity: 0.8;
         border-radius: 5px;
     }
     header {
@@ -49,7 +49,8 @@ body {
 		color: white;
         font-size: 16pt;
 		text-decoration: none;
-		font-family: comic sans ms;
+        font-weight: normal;
+		font-family: 'Lobster', cursive !important;
 	}
     section {
 		float:left;
@@ -102,7 +103,7 @@ body {
         text-align:left;
     }
     a {
-        font-family:arial;
+        /*font-family:arial;*/
         font-size:10pt;
         height:14px;
         padding-top:2px;
@@ -176,4 +177,3 @@ body {
         font-size: 12pt;
         color: black;
     }
-

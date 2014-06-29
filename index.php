@@ -3,7 +3,9 @@
 	<head>
 		<title>JokeUni</title>
 		<meta charset="utf8"/>
-		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">	
+		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css"><!-- Main Style -->
+		<!-- <link href="http://fonts.googleapis.com/css?family=Pacifico|Raleway:400,700|Lily+Script+One&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"> --><!-- Additional font - disabled -->
+		<link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'><!-- Additional font -->
 	</head>
 	<body>
 		<header>
