@@ -3,24 +3,20 @@
 	<head>
 		<title>JokeUni</title>
 		<meta charset="utf8"/>
-		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">
-			
+		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">	
 	</head>
 	
-	<body background="Images/Background.jpg">
+	<body>
 		<header>
-			<a href="Index.html" class="navigation">
-				<img src="Images/JokeUni.jpg" class="jokeUni" alt="JokeUni logo">
-			</a>
-			<img src="Images/LearnToJoke.jpg" class="learnJoke" alt="JokeUni main picture">
+			<?php include ('header.php'); ?>
 		</header>
+		
 		<nav>
 			<ul>
-				<li><a href="Index.html" class="navigation">Начало</a></li>
-				<li><a href="quotes.html" class="navigation">Цитати</a></li>
-				<li><a href="jokes.html" class="navigation">Бисери</a></li>
-                <li><a href="contact-us.html" class="navigation">Връзка с нас</a></li>
-				
+				<li><a href="index.php" class="navigation">Начало</a></li>
+				<li><a href="quotes.php" class="navigation">Цитати</a></li>
+				<li><a href="jokes.php" class="navigation">Бисери</a></li>
+				<li><a href="contact-us.php" class="navigation">Връзка с нас</a></li>
 			</ul>
 		</nav>
 		
@@ -61,20 +57,7 @@
 		</aside>
 		
 		<footer>
-			<strong>&copy; June, 2014 - TEAM "ENIVAS":</strong>
-			<table>
-				<tr>
-					<td>Stoyan Stoyanov</td>
-					<td>Mihaela Mladenova</td>
-					<td>Teodor Dobrev</td>
-				</tr>
-				<tr>
-					<td>Svetoslav Toshkov</td>
-					<td>Nikolay Rangelov</td>
-					<td>Yulia Dimitrova-Jamieson</td>
-				</tr>
-			</table>
+			<?php include('footer.php'); ?>
 		</footer>
-			
 	</body>
 </html>

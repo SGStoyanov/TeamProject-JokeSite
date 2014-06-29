@@ -46,13 +46,12 @@ body {
         text-align:center;
     }
 	.navigation{
-		color:white;
-        font-size:16pt;
-		text-decoration:none;
-		font-family:comic sans ms;
+		color: white;
+        font-size: 16pt;
+		text-decoration: none;
+		font-family: comic sans ms;
 	}
-    section{
-
+    section {
 		float:left;
 		width:71%;
 		height:1400px;

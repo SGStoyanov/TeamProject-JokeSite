@@ -3,8 +3,7 @@
 	<head>
 		<title>JokeUni</title>
 		<meta charset="utf8"/>
-		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">
-			
+		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">	
 	</head>
 	
 	<body>
@@ -16,6 +15,7 @@
 				<li><a href="index.php" class="navigation">Начало</a></li>
 				<li><a href="quotes.php" class="navigation">Цитати</a></li>
 				<li><a href="jokes.php" class="navigation">Бисери</a></li>
+				<li><a href="contact-us.php" class="navigation">Връзка с нас</a></li>
 			</ul>
 		</nav>
 		
