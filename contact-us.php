@@ -36,7 +36,7 @@
                     <img class="resize2" src="Images/facebook-icon.PNG" alt="Facebook Link">
                 </a>
                 <a class="avaliable-link" href="skype: teodor251" target="_blank">
-                    <img class="resize3" src="Images/skype-icon2.png" alt="Skype Link">
+                    <img class="resize3" src="Images/skype-icon.png" alt="Skype Link">
                 </a>
             </div>
         </div>
