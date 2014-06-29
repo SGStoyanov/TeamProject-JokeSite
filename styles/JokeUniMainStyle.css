@@ -1,12 +1,18 @@
 body {
-    width:100%;
+    width:99%;
     height: 100%;
+    min-height: 100%;
     font-family: Pacifico, comic sans ms, Arial, Helvetica;
+    padding: 0;
+    margin-left: 1%;
+    margin-right: auto;
     background: rgba(179,220,237,1);
-    /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
-    /* Opera 11.10+ */background: -ms-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
-    /* IE 10+ */background: linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
-    /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );
+    /* Chrome10+,Safari5.1+ */ background: -o-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* Firefox */ background: -moz-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* Opera 11.10+ */ background: -ms-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* IE 10+ */ background: linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
+    /* W3C */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );
+    background-attachment: fixed;
     }
     header, aside, nav, section, footer {
         opacity: 0.8;
@@ -71,11 +77,14 @@ body {
         margin-left:5px;
         margin-top:5px;
         margin-bottom:5px;
-        padding-left:25px;
+        padding-left:25px; 
     }
     aside div {
         margin-top: 65%;
         width: 64%;
+    }
+    aside a:hover {
+        text-decoration: underline !important;
     }
     footer {
 		float:left;
@@ -104,7 +113,6 @@ body {
         text-align:left;
     }
     a {
-        /*font-family:arial;*/
         font-size:10pt;
         height:14px;
         padding-top:2px;
@@ -147,28 +155,12 @@ body {
     .secondRow{
         font-size: 15px;
     }
-    .firstRow > a{
+    .firstRow > a {
         font-style: italic;
         color:black;
         font-size: 20px;
-
-        }
-    #usr1{
-        text-decoration: none;
     }
-    #usr2{
-        text-decoration: none;
-    }
-    #usr3{
-        text-decoration: none;
-    }
-    #usr4{
-        text-decoration: none;
-    }
-    #usr5{
-        text-decoration: none;
-    }
-    #usr6{
+    #usr1, #usr2, #usr3, #usr4, #usr5, #usr6 {
         text-decoration: none;
     }
     ul.block > li > a {
