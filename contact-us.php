@@ -4,8 +4,10 @@
    <head>
         <title>JokeUni</title>
         <meta charset="UTF-8"/>
-        <link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">
-        <link href='http://fonts.googleapis.com/css?family=Lobster&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'><!-- Additional font -->  
+        <link href="Images/favicon.png" type="text/ico" rel="shortcut icon"></link>
+        <link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css"></link><!-- Main Style -->
+        <!-- <link href="http://fonts.googleapis.com/css?family=Pacifico|Raleway:400,700|Lily+Script+One&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"> --><!-- Additional font - disabled -->
+        <link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'></link><!-- Additional font -->
     </head>
 
 <body>
@@ -38,7 +40,7 @@
                     <img class="resize2" src="Images/facebook-icon.PNG" alt="Facebook Link">
                 </a>
                 <a class="avaliable-link" href="skype:teodor251?chat" target="_blank">
-                    <img class="resize3" src="Images/skype-icon.PNG" alt="Skype Link">
+                    <img class="resize3" src="Images/skype-icon.png" alt="Skype Link">
                 </a>
             </div>
         </div>
@@ -57,7 +59,7 @@
                     <img class="resize2" src="Images/facebook-icon.PNG" alt="Facebook Link">
                 </a>
                 <a class="avaliable-link" href="skype:emz-11?chat" target="_blank">
-                    <img class="resize3" src="Images/skype-icon.PNG" alt="Skype Link">
+                    <img class="resize3" src="Images/skype-icon.png" alt="Skype Link">
                 </a>
             </div>
         </div>
@@ -77,7 +79,7 @@
                     <img class="resize2" src="Images/facebook-icon.PNG" alt="Facebook Link">
                 </a>
                 <a class="avaliable-link" href="skype:Yuliadimi?chat" target="_blank">
-                    <img class="resize3" src="Images/skype-icon.PNG" alt="Skype Link">
+                    <img class="resize3" src="Images/skype-icon.png" alt="Skype Link">
                 </a>
             </div>
         </div>
@@ -97,7 +99,7 @@
                     <img class="resize2" src="Images/facebook-icon.PNG" alt="Facebook Link">
                 </a>
                 <a class="avaliable-link" href="skype:aleahim86?chat" target="_blank">
-                    <img class="resize3" src="Images/skype-icon.PNG" alt="Skype Link">
+                    <img class="resize3" src="Images/skype-icon.png" alt="Skype Link">
                 </a>
             </div>
         </div>
@@ -116,7 +118,7 @@
                     <img class="resize2" src="Images/facebook-icon.PNG" alt="Facebook Link">
                 </a>
                 <a class="avaliable-link" href="skype:slaveto9707?chat" target="_blank">
-                    <img class="resize3" src="Images/skype-icon.PNG" alt="Skype Link">
+                    <img class="resize3" src="Images/skype-icon.png" alt="Skype Link">
                 </a>
             </div>
         </div>
@@ -135,7 +137,7 @@
                     <img class="resize2" src="Images/facebook-icon.PNG" alt="Facebook Link">
                 </a>
                 <a class="avaliable-link" href="skype:nickyrangelov?chat" target="_blank">
-                    <img class="resize3" src="Images/skype-icon.PNG" alt="Skype Link">
+                    <img class="resize3" src="Images/skype-icon.png" alt="Skype Link">
                 </a>
             </div>
         </div>

@@ -3,9 +3,10 @@
 	<head>
 		<title>JokeUni</title>
 		<meta charset="UTF-8"/>
-		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css"><!-- Main Style -->
+		<link href="Images/favicon.png" type="text/ico" rel="shortcut icon"></link>
+		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css"></link><!-- Main Style -->
 		<!-- <link href="http://fonts.googleapis.com/css?family=Pacifico|Raleway:400,700|Lily+Script+One&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"> --><!-- Additional font - disabled -->
-		<link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'><!-- Additional font -->
+		<link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'></link><!-- Additional font -->
 	</head>
 	<body>
 		<header>
@@ -13,10 +14,10 @@
 		</header>
 		<nav>
 			<ul>
-				<li><a href="index.php" class="navigation">Начало</a></li>
-				<li><a href="quotes.php" class="navigation">Цитати</a></li>
-				<li><a href="jokes.php" class="navigation">Бисери</a></li>
-                <li><a href="contact-us.php" class="navigation">Връзка с нас</a></li>
+				<li><a href="index.php" class="navigation"><span>Начало</span></a></li>
+				<li><a href="quotes.php" class="navigation"><span>Цитати</span></a></li>
+				<li><a href="jokes.php" class="navigation"><span>Бисери</span></a></li>
+                <li><a href="contact-us.php" class="navigation"><span>Връзка с нас</span></a></li>
 			</ul>
 		</nav>
 		
