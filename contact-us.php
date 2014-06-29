@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
    <head>
         <title>JokeUni</title>
         <meta charset="UTF-8"/>

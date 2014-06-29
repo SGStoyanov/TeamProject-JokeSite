@@ -30,6 +30,7 @@ body {
     .learnJoke {
         width:68.7%;
         height: 20%;
+        background-repeat: repeat;
     }
     nav {
         background-color:#234465;
