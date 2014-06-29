@@ -2,11 +2,7 @@ body {
     width:100%;
     height: 100%;
     font-family: Pacifico, comic sans ms, Arial, Helvetica;
-    /*background: url("../Images/Abstract_dream.jpg");*/
     background: rgba(179,220,237,1);
-    /* Old Browsers */background: -moz-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
-    /* FF3.6+ */background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(179,220,237,1)), color-stop(19%, rgba(139,173,240,1)), color-stop(50%, rgba(41,184,229,1)), color-stop(72%, rgba(154,179,230,1)), color-stop(79%, rgba(139,173,240,1)), color-stop(100%, rgba(188,224,238,1)));
-    /* Chrome,Safari4+  */background: -webkit-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
     /* Chrome10+,Safari5.1+ */background: -o-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
     /* Opera 11.10+ */background: -ms-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
     /* IE 10+ */background: linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
@@ -47,11 +43,17 @@ body {
     }
 	.navigation{
 		color: white;
-        font-size: 16pt;
+        font-size: 17pt;
 		text-decoration: none;
         font-weight: normal;
 		font-family: 'Lobster', cursive !important;
 	}
+    nav a:hover {
+        background: green;
+        border: 3px double yellow;
+        box-shadow: 6px 6px 6px black;
+        width: 10%;
+    }
     section {
 		float:left;
 		width:71%;
