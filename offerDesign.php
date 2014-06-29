@@ -21,21 +21,6 @@
 		
 		<section>
 			Some Text
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
 		</section>
 		
 		<aside>
@@ -46,12 +31,7 @@
 				<li><a href="http://www.vicmania.com/?cat=1059&amp;paged=4" target="_blank">Виц Мания</a></li>
 				<li><a href="http://www.yes.bg/fun/?cat=24" target="_blank"> Още вицове</a></li>
 			</ul>
-			<img src="Images/LaphingFace.jpg" alt="LaphingFace" class="laphingFace">
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
+			<img src="Images/LaughingFace.jpg" alt="LaughingFace" class="LaughingFace">
 		</aside>
 		
 		<footer>

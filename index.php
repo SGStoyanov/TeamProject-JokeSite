@@ -32,11 +32,6 @@
 				<li><a href="http://www.yes.bg/fun/?cat=24" target="_blank">4. Още вицове</a></li>
 			</ul>
 			<img src="Images/LaughingFace.jpg" alt="LaughingFace" class="laughingFace">
-			<br/>
-			<br/>
-			<br/>
-			<br/>
-			<br/>
 		</aside>
 		
 		<footer>
