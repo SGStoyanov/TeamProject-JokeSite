@@ -52,7 +52,6 @@ body {
         background: green;
         border: 3px double yellow;
         box-shadow: 6px 6px 6px black;
-        width: 10%;
     }
     section {
 		float:left;

@@ -3,7 +3,7 @@
 <head>
    <head>
         <title>JokeUni</title>
-        <meta charset="utf8"/>
+        <meta charset="UTF-8"/>
         <link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">
         <link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'><!-- Additional font -->  
     </head>
@@ -30,7 +30,7 @@
                 <p></p>
                 <p></p>
             <div class="contact-links">
-                <a class="avaliable-link" href="e-mail: teodor.d.dobrev@gmail.com" target="_blank">
+                <a class="avaliable-link" href="mailto: teodor.d.dobrev@gmail.com" target="_blank">
                     <img class="resize1" src="Images/email-icon.PNG" alt="Email Link">
                 </a>
                 <a class="avaliable-link" href="https://www.facebook.com/teodor.dobrev.90?ref=tn_tnmn" target="_blank">
@@ -49,7 +49,7 @@
                 <p></p>
                 <p></p>
             <div class="contact-links">
-                <a class="avaliable-link" href="e-mail: stoyanov.vn@gmail.com" target="_blank">
+                <a class="avaliable-link" href="mailto: stoyanov.vn@gmail.com" target="_blank">
                     <img class="resize1" src="Images/email-icon.PNG" alt="Email Link">
                 </a>
                 <a class="avaliable-link" href="https://www.facebook.com/eeemmmzzz?fref=ts" target="_blank">
@@ -69,7 +69,7 @@
             <p>
             </p>
             <div class="contact-links">
-                <a class="avaliable-link" href="e-mail: yuletodim@yahoo.es" target="_blank">
+                <a class="avaliable-link" href="mailto: yuletodim@yahoo.es" target="_blank">
                     <img class="resize1" src="Images/email-icon.PNG" alt="Email Link">
                 </a>
                 <a class="avaliable-link" href="https://www.facebook.com/yulia.dimitrova.96?fref=photo" target="_blank">
@@ -89,7 +89,7 @@
             <p>
             </p>
             <div class="contact-links">
-                <a class="avaliable-link" href="e-mail: alea_him@abv.bg target="_blank">
+                <a class="avaliable-link" href="mailto: alea_him@abv.bg target="_blank">
                     <img class="resize1" src="Images/email-icon.PNG" alt="Email Link">
                 </a>
                 <a class="avaliable-link" href="https://none" target="_blank">
@@ -108,7 +108,7 @@
                 <p></p>
                 <p></p>
             <div class="contact-links">
-                <a class="avaliable-link" href="e-mail: s.toshkov.softuni@gmail.com" target="_blank">
+                <a class="avaliable-link" href="mailto: s.toshkov.softuni@gmail.com" target="_blank">
                     <img class="resize1" src="Images/email-icon.PNG" alt="Email Link">
                 </a>
                 <a class="avaliable-link" href="https://www.facebook.com/speksy" target="_blank">
@@ -127,7 +127,7 @@
                 <p></p>
                 <p></p>
             <div class="contact-links">
-                <a class="avaliable-link" href="e-mail: nickyrangelov@gmail.com" target="_blank">
+                <a class="avaliable-link" href="mailto: nickyrangelov@gmail.com" target="_blank">
                     <img class="resize1" src="Images/email-icon.PNG" alt="Email Link">
                 </a>
                 <a class="avaliable-link" href="https://www.facebook.com/profile.php?id=639127350" target="_blank">
@@ -148,7 +148,7 @@
             <li><a href="http://www.vicmania.com/?cat=1059&amp;paged=4" target="_blank">3. Виц Мания</a></li>
             <li><a href="http://www.yes.bg/fun/?cat=24" target="_blank">4. Още вицове</a></li>
         </ul>
-        <img src="Images/LaughingFace.jpg" alt="LaughingFace" class="laughingFace">
+        <div><img src="Images/LaughingFace.jpg" alt="LaughingFace" class="laughingFace"></div>
     </aside>
 
     <footer>
