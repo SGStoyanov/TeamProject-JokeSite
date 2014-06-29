@@ -17,7 +17,7 @@ body {
         opacity: 0.9;
     }
     header {
-        height: 33%;
+        height: 15%;
     }
     .jokeUni {
         width:22.22%;
@@ -51,7 +51,8 @@ body {
 		text-decoration:none;
 		font-family:comic sans ms;
 	}
-    section {
+    section{
+
 		float:left;
 		width:71%;
 		height:1400px;
@@ -114,3 +115,63 @@ body {
 		text-align:right;
 		margin-right:40px;
 	}
+    .about-us-cow-1{
+
+        float:left;
+        background: linear-gradient(white,#234465);
+        margin: 20px;
+        border-radius: 10px;
+        text-align: center;
+        box-shadow: 10px 10px 5px #888888;
+        width: 250px;
+    }
+    .resize1{
+        padding-left: 0px;
+         width: 25px;
+         height: auto;
+     }
+    .resize2{
+        padding-left: 30px;
+        width: 20px;
+        height: auto;
+    }
+    .resize3{
+        padding-left: 30px;
+        width: 20px;
+        height: auto;
+    }
+    .secondRow{
+        font-size: 15px;
+    }
+    .firstRow > a{
+        font-style: italic;
+        color:black;
+        font-size: 20px;
+
+        }
+    #usr1{
+        text-decoration: none;
+    }
+    #usr2{
+        text-decoration: none;
+    }
+    #usr3{
+        text-decoration: none;
+    }
+    #usr4{
+        text-decoration: none;
+    }
+    #usr5{
+        text-decoration: none;
+    }
+    #usr6{
+        text-decoration: none;
+    }
+    ul.block > li > a {
+
+        text-decoration: none;
+        font-style: italic;
+        font-size: 12pt;
+        color: black;
+    }
+

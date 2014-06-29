@@ -6,16 +6,20 @@
 		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">
 			
 	</head>
-
-	<body>
+	
+	<body background="Images/Background.jpg">
 		<header>
-			<?php include ('header.php'); ?>
+			<a href="Index.html" class="navigation">
+				<img src="Images/JokeUni.jpg" class="jokeUni" alt="JokeUni logo">
+			</a>
+			<img src="Images/LearnToJoke.jpg" class="learnJoke" alt="JokeUni main picture">
 		</header>
 		<nav>
 			<ul>
-				<li><a href="index.php" class="navigation">Начало</a></li>
-				<li><a href="quotes.php" class="navigation">Цитати</a></li>
-				<li><a href="jokes.php" class="navigation">Бисери</a></li>
+				<li><a href="Index.html" class="navigation">Начало</a></li>
+				<li><a href="quotes.html" class="navigation">Цитати</a></li>
+				<li><a href="jokes.html" class="navigation">Бисери</a></li>
+				
 			</ul>
 		</nav>
 		
@@ -36,6 +40,7 @@
 			<br/>
 			<br/>
 			<br/>
+			
 		</section>
 		
 		<aside>
@@ -46,7 +51,7 @@
 				<li><a href="http://www.vicmania.com/?cat=1059&amp;paged=4" target="_blank">Виц Мания</a></li>
 				<li><a href="http://www.yes.bg/fun/?cat=24" target="_blank"> Още вицове</a></li>
 			</ul>
-			<img src="Images/LaughingFace.jpg" alt="LaughingFace" class="laughingFace">
+			<img src="Images/LaphingFace.jpg" alt="LaphingFace" class="laphingFace">
 			<br/>
 			<br/>
 			<br/>
@@ -55,7 +60,20 @@
 		</aside>
 		
 		<footer>
-            <?php include ('footer.php'); ?>
-        </footer>
+			<strong>&copy; June, 2014 - TEAM "ENIVAS":</strong>
+			<table>
+				<tr>
+					<td>Stoyan Stoyanov</td>
+					<td>Mihaela Mladenova</td>
+					<td>Teodor Dobrev</td>
+				</tr>
+				<tr>
+					<td>Svetoslav Toshkov</td>
+					<td>Nikolay Rangelov</td>
+					<td>Yulia Dimitrova-Jamieson</td>
+				</tr>
+			</table>
+		</footer>
+			
 	</body>
 </html>
