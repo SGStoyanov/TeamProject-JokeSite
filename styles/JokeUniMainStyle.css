@@ -187,3 +187,8 @@ footer {
         margin-right: 3%;
         margin-left: 7%;
     }
+    .footWrapper > div:last-of-type {
+        display: inline-block;
+        width: 50%;
+        margin: 5% 2% 5% 6%;
+    }
