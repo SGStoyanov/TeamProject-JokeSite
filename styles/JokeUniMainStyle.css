@@ -37,6 +37,12 @@ body {
         width:91.3%;
         margin-left:3.7%;
     }
+    nav a:hover {
+        background: #51D43A;
+        position: relative;
+        text-decoration: underline;
+        color: black;
+    }
     ul {
         margin-top:0px;
         margin-bottom:0px;
@@ -56,12 +62,6 @@ body {
         font-weight: normal;
 		font-family: 'Lobster', cursive !important;
 	}
-    nav a:hover {
-        background: green;
-        border: 2px solid yellow;
-        
-        position: relative;
-    }
     section {
 		float:left;
 		width:71%;
@@ -172,4 +172,3 @@ body {
         font-size: 12pt;
         color: black;
     }
-    

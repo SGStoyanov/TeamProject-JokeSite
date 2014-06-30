@@ -14,10 +14,10 @@
 		</header>
 		<nav>
 			<ul>
-				<li><a href="index.php" class="navigation"><span>Начало</span></a></li>
-				<li><a href="quotes.php" class="navigation"><span>Цитати</span></a></li>
-				<li><a href="jokes.php" class="navigation"><span>Бисери</span></a></li>
-                <li><a href="contact-us.php" class="navigation"><span>Връзка с нас</span></a></li>
+				<li><a href="index.php" class="navigation">Начало</a></li>
+				<li><a href="quotes.php" class="navigation">Цитати</a></li>
+				<li><a href="jokes.php" class="navigation">Бисери</a></li>
+                <li><a href="contact-us.php" class="navigation">Връзка с нас</a></li>
 			</ul>
 		</nav>
 		
