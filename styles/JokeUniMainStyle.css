@@ -11,7 +11,7 @@ body {
     /* Firefox */ background: -moz-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
     /* Opera 11.10+ */ background: -ms-linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
     /* IE 10+ */ background: linear-gradient(45deg, rgba(179,220,237,1) 0%, rgba(139,173,240,1) 19%, rgba(41,184,229,1) 50%, rgba(154,179,230,1) 72%, rgba(139,173,240,1) 79%, rgba(188,224,238,1) 100%);
-    /* W3C */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );
+    /* W3C */ /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee', GradientType=1 );*/
     background-attachment: fixed;
     }
     header, aside, nav, section, footer {
@@ -93,13 +93,6 @@ body {
     aside a:hover {
         text-decoration: underline !important;
     }
-    footer {
-		float:left;
-        width:89.7%;
-        background-color:#E6E6E6;
-        margin-left:3.7%;
-        padding:10px;
-    }
     table {
         width:50%;
         font-size:11pt;
@@ -176,6 +169,13 @@ body {
         font-size: 12pt;
         color: black;
     }
+footer {
+    float:left;
+    width:89.7%;
+    background-color:#E6E6E6;
+    margin-left:3.7%;
+    padding:10px;
+}
     .footWrapper > div:first-of-type {
         display: inline-block;
         width: 100%;
