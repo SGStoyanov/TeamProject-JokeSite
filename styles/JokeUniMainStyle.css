@@ -176,14 +176,14 @@ body {
         font-size: 12pt;
         color: black;
     }
-    .footerWrapper > div:first-of-type {
-        display: block;
-        margin-left: 10%;
-        margin-right: auto;
+    .footWrapper > div:first-of-type {
+        display: inline-block;
+        width: 100%;
+        margin-left: 6%;
     }
     .footWrapper > div:nth-of-type(1n+2) {
         display: inline-block;
         width: 15%;
-        margin-right: 5%;
+        margin-right: 3%;
         margin-left: 7%;
     }
