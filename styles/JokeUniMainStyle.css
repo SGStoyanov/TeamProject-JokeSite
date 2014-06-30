@@ -183,15 +183,13 @@ footer {
     }
     .footWrapper > div:nth-of-type(2), .footWrapper > div:nth-of-type(3), .footWrapper > div:nth-of-type(4) {
         display: inline-block;
-        width: 15%;
+        width: 11%;
         margin-right: 3%;
         margin-left: 7%;
     }
-    /*.footWrapper > div:last-of-type {
-        display: inline-block;
-        width: 50%;
-        margin: 1% 1% 3% 6%;
-    }*/
+    .footWrapper > div:nth-of-type(4) {
+        width: 22%;
+    }
     .validators {
         width: 100%;
     }

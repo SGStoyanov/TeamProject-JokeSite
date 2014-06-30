@@ -10,6 +10,7 @@
     </div>
     <div>
         Nikolay Rangelov
+        <br>
         Yulia Dimitrova-Jamieson
     </div>
 	<div class="validators">
