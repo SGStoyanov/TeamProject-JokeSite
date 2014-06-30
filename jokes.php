@@ -23,6 +23,7 @@
 		</nav>
 		
 		<section>
+			<h1>Ето ги и нашите ИЗцепки</h1>
 			Some Text
 		</section>
 		
