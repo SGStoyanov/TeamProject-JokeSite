@@ -178,13 +178,15 @@ footer {
 }
     .footWrapper > div:first-of-type {
         display: inline-block;
-        width: 100%;
+        width: 70%;
         margin-left: 6%;
+		margin-bottom:2%;
     }
-    .footWrapper > div:nth-of-type(2), .footWrapper > div:nth-of-type(3), .footWrapper > div:nth-of-type(4) {
+    .footWrapper > div:nth-of-type(2), .footWrapper > div:nth-of-type(3), .footWrapper > div:nth-of-type(4), 
+	.footWrapper > div:nth-of-type(5), .footWrapper > div:nth-of-type(6), .footWrapper > div:nth-of-type(7) {
         display: inline-block;
-        width: 11%;
-        margin-right: 3%;
+        width: 17%;
+       
         margin-left: 7%;
     }
     .footWrapper > div:nth-of-type(4) {

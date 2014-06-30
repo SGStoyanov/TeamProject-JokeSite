@@ -1,18 +1,14 @@
 <div class="footWrapper">
     <div><strong>&copy; June, 2014 - TEAM "ENYWAS":</strong></div>
-    <div>
-        Stoyan Stoyanov
-        Mihaela Mladenova
-    </div>
-    <div>
-        Teodor Dobrev
-        Svetoslav Toshkov
-    </div>
-    <div>
-        Nikolay Rangelov
-        <br> 
-        Yulia Dimitrova-Jamieson
-    </div>
+    <div>Stoyan Stoyanov</div>
+    <div> Mihaela Mladenova</div>
+    <div>Teodor Dobrev</div>
+    <div>Svetoslav Toshkov</div>
+    <div>Yulia Dimitrova-Jamieson</div>
+    <div>Nikolay Rangelov</div>
+   
+        
+    
 	<div class="validators">
 		<div>
 			<a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fstoyanstoyanov.eu%2Fjokesite%2F" target="_blank">
