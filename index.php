@@ -27,7 +27,7 @@
 				<h4>Нашата мисия: да накараме всички "IT-хора" да не се вземат много на сериозно.</h4>
 				<p>Този сайт е направен от група кандидат-програмисти, които се бoрят за някоя и друга точка в повече,
 				с цел да подобрят оценките си. Упс, пардон, знанията си...</p>
-				<p style="color:white">Toва, че сайтът ни е пародия на нашата Alma mater <a href="http://softuni.bg" target="_blank"/><img src="Images/SoftUniLogo.png" alt="SoftUni logo"></a>, май няма да ни помогне много,
+				<p style="color:white">Toва, че сайтът ни е пародия на нашата Alma mater <a href="http://softuni.bg" target="_blank"><img src="Images/SoftUniLogo.png" alt="SoftUni logo"></a>, май няма да ни помогне много,
 				но се оставяме в ръцете и на добрата воля на трейнърите :)))</p>
 			</div>
 			
