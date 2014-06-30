@@ -10,7 +10,7 @@
 	<body>
 		<header>
 			<?php include('header.php');?>
-		</header>s
+		</header>
 		<nav>
 			<ul>
 				<li><a href="index.php" class="navigation">Начало</a></li>
