@@ -36,6 +36,11 @@
 				<li><a href="http://www.yes.bg/fun/?cat=24" target="_blank"> Още вицове</a></li>
 			</ul>
 			<div><img src="Images/LaughingFace.jpg" alt="LaughingFace" class="laughingFace"></div>
+            <div id="softuni-logo">
+				<a class="softuni-logo" href="https://softuni.bg/" target="_blank">
+				    <img id="softuni-logo1" src="Images/softuni-logo.png" alt="Software University">
+				</a>
+			</div>
 		</aside>
 		
 		<footer>

@@ -75,7 +75,7 @@
 			<div><img src="Images/LaughingFace.jpg" alt="LaughingFace" class="laughingFace"></div>
 			<div id="softuni-logo">
 				<a class="softuni-logo" href="https://softuni.bg/" target="_blank">
-				<img id="softuni-logo1" src="Images/softuni-logo.png" alt="Software University">
+				    <img id="softuni-logo1" src="Images/softuni-logo.png" alt="Software University">
 				</a>
 			</div>
 		</aside>
