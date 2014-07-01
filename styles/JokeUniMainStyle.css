@@ -231,3 +231,28 @@ body {
 	.short2{
 		height:470px;
 	}
+
+    .nakovParta {
+        height: 100%;
+        width: 100%;
+        background: url('../Images/nakovVSAll.png'), 
+                    url('../Images/leonidasNakov.jpg');
+        background-repeat: no-repeat;
+        background-position: 
+            60% 10%, 
+            51% 11%, 
+            top left;
+    }
+    /*@font-face {
+        font-family: Animated;
+        src: url("../resources/Animated.ttf");
+    }*/
+    span {
+        font-family: 'Comic Sans MS';
+        float: left;
+        color: #FDBC21;
+        font-weight: normal;
+        font-size: 1.5em;
+        margin-right: 1%;
+        margin-top: 2%;
+    }
