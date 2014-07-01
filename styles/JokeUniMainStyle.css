@@ -222,8 +222,8 @@ body {
 }
     #softuni-logo > a > img {
         margin-top:30px;
-        width: 180px;
-        height: 80px;
+        width: 130%;
+        height: 110%;
     }
 	.short{
 		height:500px;
