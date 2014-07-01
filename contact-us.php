@@ -23,7 +23,7 @@
         </ul>
     </nav>
 
-    <section>
+    <section class="short2" >
         <div class="about-us-cow-1">
             <div class="firstRow">
                 <a id="usr1" href="https://softuni.bg/users/profile/show/teodor.dobrev.90" target="_blank">Teodor Dobrev</a>
@@ -142,7 +142,7 @@
         </div>
     </section>
 
-    <aside>
+    <aside class="short">
         <h2>Вицове за програмисти:</h2>
         <ul class="block">
             <li><a href="http://softuni.bg/forum/questions/details/38" target="_blank">1. SoftUniForum</a></li>
@@ -150,12 +150,12 @@
             <li><a href="http://www.vicmania.com/?cat=1059&amp;paged=4" target="_blank">3. Виц Мания</a></li>
             <li><a href="http://www.yes.bg/fun/?cat=24" target="_blank">4. Още вицове</a></li>
         </ul>
-        <div id="softuni-logo">
-            <a  href="https://softuni.bg/" target="_blank">
-            <img src="Images/softuni-logo.png" alt="Software University">
-        </a>
-        </div>
         <div><img src="Images/LaughingFace.jpg" alt="LaughingFace" class="laughingFace"></div>
+		<div id="softuni-logo">
+			<a class="softuni-logo" href="https://softuni.bg/" target="_blank">
+			<img id="softuni-logo1" src="Images/softuni-logo.png" alt="Software University">
+			</a>
+		</div>
     </aside>
 
     <footer>

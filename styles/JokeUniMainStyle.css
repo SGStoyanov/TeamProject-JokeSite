@@ -85,6 +85,7 @@ body {
     aside {
 		float:left;
         width:15.7%;
+		height:1430px;
         background-color:#E6E6E6;
         margin-left:5px;
         margin-top:5px;
@@ -92,8 +93,8 @@ body {
         padding-left:25px;
     }
     aside div {
-        margin-top: 65%;
-        width: 64%;
+        margin-top:10%;
+        width: 70%;
     }
     aside a:hover {
         text-decoration: underline !important;
@@ -126,7 +127,7 @@ body {
     }
     .laughingFace {
         width:49%;
-        padding-left:40%;
+        padding-left:70%;
     }
 	dd{
 		margin-bottom:15px;
@@ -218,7 +219,13 @@ body {
     	font-size:16pt;
     }
     #softuni-logo > a > img {
-        margin-top: -120px;        
+        margin-top:30px;
         width: 180px;
         height: 80px;
     }
+	.short{
+		height:500px;
+	}
+	.short2{
+		height:470px;
+	}

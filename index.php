@@ -41,12 +41,13 @@
 				<li><a href="http://www.vicmania.com/?cat=1059&amp;paged=4" target="_blank">3. Виц Мания</a></li>
 				<li><a href="http://www.yes.bg/fun/?cat=24" target="_blank">4. Още вицове</a></li>
 			</ul>
-			<div id="softuni-logo">
-            <a class="softuni-logo" href="https://softuni.bg/" target="_blank">
-            <img id="softuni-logo1" src="Images/softuni-logo.png" alt="Software University">
-        </a>
-        </div>
 			<div><img src="Images/LaughingFace.jpg" alt="LaughingFace" class="laughingFace"></div>
+			<div id="softuni-logo">
+				<a class="softuni-logo" href="https://softuni.bg/" target="_blank">
+				<img id="softuni-logo1" src="Images/softuni-logo.png" alt="Software University">
+				</a>
+			</div>
+			
 		</aside>
 		
 		<footer>
