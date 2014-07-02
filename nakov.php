@@ -22,9 +22,9 @@
 		</nav>
 		
 		<section>
-            <div class="nakovParta">
-                <span class="speech">I said no Javaaaaa!!!</span>
-            </div>
+       
+                <img src="Images/nakovVSAll.png" alt="kolaj" class="kolajNakov">
+            
 			<div class="nakov">
                 <h1>10 факта, които може би не знаете за Светлин Наков:</h1>
                 <p>
