@@ -69,7 +69,7 @@ body {
     section {
 		float:left;
 		width:71%;
-		height:1344px;
+		height:1410px;
         background-color:#E6E6E6;
         margin-left:3.7%;
         margin-top:5px;
@@ -79,7 +79,7 @@ body {
     } 
     aside {
 		float:left;
-        width:16.5%;
+        width:15.9%;
 		height: 440px;
         background-color:#E6E6E6;
         margin-left:5px;
@@ -225,10 +225,10 @@ body {
         height: 110%;
     }
 	.short{
-		height:500px;
+		height:430px;
 	}
 	.short2{
-		height:470px;
+		height:400px;
 	}
 
     .nakovParta {
