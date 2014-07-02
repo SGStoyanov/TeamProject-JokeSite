@@ -212,6 +212,16 @@ body {
     	margin-right:7%;
     	padding:25px;
     	font-size:1.1em;
+    }
+	 .mainPage2{
+    	background: linear-gradient(#234465, white);
+    	box-shadow: 10px 10px 5px #888888;
+    	border-radius: 10px;
+    	margin-top:3%;
+    	margin-left:7%;
+    	margin-right:7%;
+    	padding:25px;
+    	font-size:1.1em;
         
     }
     .mainPage > div {
@@ -254,3 +264,23 @@ body {
         margin-right: 1%;
         margin-top: 2%;
     }
+	.funny{
+		width:70px;
+		height:70px;
+		border-radius:70px;
+	}
+	.white{
+		color:white;
+	}
+	.whiteA{
+		color:white;
+		font-family: Pacifico, comic sans ms, Arial, Helvetica;
+		font-size: 18pt;
+		font-weight:bold;
+	}
+	.blackA{
+		color:black;
+		font-family: Pacifico, comic sans ms, Arial, Helvetica;
+		font-size: 18pt;
+		font-weight:bold;
+	}
