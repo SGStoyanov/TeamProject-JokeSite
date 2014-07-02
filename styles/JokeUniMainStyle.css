@@ -203,7 +203,7 @@ body {
         width: 0%;
         margin: 1% 1% 0% 6%;
     }
-	.mainPage{
+	.mainPage, .nakov{
     	background: linear-gradient(white,#234465);
     	box-shadow: 10px 10px 5px #888888;
     	border-radius: 10px;
@@ -212,10 +212,9 @@ body {
     	margin-right:7%;
     	padding:25px;
     	font-size:1.1em;
-        font-family: 'Lobster', cursive;
+        
     }
     .mainPage > div {
-        font-family: 'Lobster', cursive !important;
         font-size: 0.8em;
         font-weight: normal;
 }
