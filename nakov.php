@@ -4,7 +4,7 @@
 		<title>JokeUni</title>
 		<meta charset="UTF-8"/>
 		<link href="styles/JokeUniMainStyle.css" rel="stylesheet" type="text/css">
-		<link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'><!-- Additional font -->	
+		<link href='http://fonts.googleapis.com/css?family=Lobster&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'><!-- Additional font -->	
 	</head>
 	
 	<body>
