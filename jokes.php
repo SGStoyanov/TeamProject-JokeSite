@@ -17,16 +17,23 @@
 			<ul>
 				<li><a href="index.php" class="navigation">Начало</a></li>
 				<li><a href="quotes.php" class="navigation">Цитати</a></li>
-				<li><a href="nakov.php" class="navigation">Нашият гуру</a></li>
 				<li><a href="jokes.php" class="navigation">Бисери</a></li>
+                <li><a href="photos.php" class="navigation">Колажи</a></li>
                 <li><a href="contact-us.php" class="navigation">Връзка с нас</a></li>
 			</ul>
 		</nav>
 		
 		<section class="short2">
 			<h1>Ето ги и нашите ИЗцепки</h1>
-			<p>Няма такава простотия: поправяш кода онлайн в GitHub, после правиш поправки в локалните си файлове,
-				commit-ваш и merge-ваш сам себе си. Автор и патентни права: Юлия</p>
+			<p>
+                Няма такава простотия: поправяш кода онлайн в GitHub, после правиш поправки в локалните си файлове,
+				commit-ваш и merge-ваш сам себе си. Автор и патентни права: Юлия
+            </p>
+            <p>
+                Може и някой ден да схвана как в крайна сметка работи тази костенурка (TortoiseGit), евентуално... :)
+                <br>
+                Стоян
+            </p>
 		</section>
 		
 		<aside class="short">
