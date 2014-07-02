@@ -203,7 +203,7 @@ body {
         width: 0%;
         margin: 1% 1% 0% 6%;
     }
-	.mainPage, .nakov{
+	.mainPage {
     	background: linear-gradient(white,#234465);
     	box-shadow: 10px 10px 5px #888888;
     	border-radius: 10px;
@@ -212,6 +212,16 @@ body {
     	margin-right:7%;
     	padding:25px;
     	font-size:1.1em;
+    }
+    .nakov {
+        background: linear-gradient(white,#234465);
+        box-shadow: 10px 10px 5px #888888;
+        border-radius: 10px;
+        margin-top: -73%;
+        margin-left: 7%;
+        margin-right: 7%;
+        padding: 25px;
+        font-size: 1.0;
     }
 	 .mainPage2{
     	background: linear-gradient(#234465, white);
@@ -243,27 +253,49 @@ body {
     .nakovParta {
         height: 100%;
         width: 100%;
-        background: url('../Images/nakovVSAll.png'), 
-                    url('../Images/leonidasNakov.jpg');
+        background: url('../Images/nakovVSAll.png'),
+        url('../Images/leonidasNakov.jpg');
         background-repeat: no-repeat;
-        background-position: 
-            60% 10%, 
-            51% 11%, 
-            top left;
+        background-position:
+        60% 4%,
+        50% 3%,
+        top left;
     }
-    /*@font-face {
-        font-family: Animated;
-        src: url("../resources/Animated.ttf");
-    }*/
-    span {
-        font-family: 'Comic Sans MS';
-        float: left;
-        color: #FDBC21;
-        font-weight: normal;
-        font-size: 1.5em;
-        margin-right: 1%;
-        margin-top: 2%;
-    }
+        span.speech {
+            font-family: "comic sans ms", 'Tahoma', 'Helvetica', 'Arial';
+            float: left;
+            color: red;
+            font-weight: normal;
+            font-size: 1.5em;
+            font-style: italic;
+            position: relative;
+            top: 2%;
+            left: 66%;
+            width: 25%;
+            height: 5%;
+            text-align: center;
+            line-height: 280%;
+            background-color: #fff;
+            border: 2px solid #666;
+            -webkit-border-radius: 30px;
+            -moz-border-radius: 30px;
+            border-radius: 30px;
+            -webkit-box-shadow: 2px 2px 4px #888;
+            -moz-box-shadow: 2px 2px 4px #888;
+            box-shadow: 2px 2px 4px #888;
+        }
+        /*The second element of the speech bubble - a triangle.*/
+        span.speech:after
+        {
+            content: ' ';
+            position: absolute;
+            width: 0%;
+            height: 0%;
+            left: 12%;
+            top: 100%;
+            border: 15px solid;
+            border-color: #fff transparent transparent #fff;
+        }
 	.funny{
 		width:70px;
 		height:70px;
